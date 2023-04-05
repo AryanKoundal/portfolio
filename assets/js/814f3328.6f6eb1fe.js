@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Deployment blog","permalink":"/portfolio/blog/2023/02/28/docusaurus-gh-action"},{"title":"This is the title of the blog","permalink":"/portfolio/blog/2023/02/23/sample-blog"}]}')}}]);
